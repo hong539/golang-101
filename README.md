@@ -23,3 +23,7 @@ golang-101/
 ├── notes/             # 學習筆記 & 隨手心得
 └── playground/        # 任意測試區
 ```
+
+## Docs/Tips/MISC...etc
+
+* [prometheus.io/docs/guides/go-application/](https://prometheus.io/docs/guides/go-application/)
