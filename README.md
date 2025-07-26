@@ -6,9 +6,9 @@ For one want to learn and practice golang coding from scratch.
 ```
 golang-101/
 ├── README.md
-├── basics/            # 語言基礎
-│   ├── variables.go
-│   ├── functions.go
+├── tutorials/            # 語言基礎
+│   ├── getting-started/
+│   ├── create-module/
 │   └── ...
 ├── projects/          # 實戰練習
 │   ├── cli-weather/
@@ -26,6 +26,8 @@ golang-101/
 
 ## Docs/Tips/MISC...etc
 
+* [go.dev/doc/tutorial](https://go.dev/doc/tutorial/)
+* [exercism.org/tracks/go](https://exercism.org/tracks/go)
 * [github.com/go-kit/kit](https://github.com/go-kit/kit)
 * [prometheus.io/docs/guides/go-application/](https://prometheus.io/docs/guides/go-application/)
 * [pkg.go.dev/github.com/robfig/cron@v1.2.0#hdr-CRON_Expression_Format](https://pkg.go.dev/github.com/robfig/cron@v1.2.0#hdr-CRON_Expression_Format)
