@@ -1,6 +1,6 @@
 # 📚 Golang-101 - tutorial 任務說明
 
-## 🗓️ 時間範圍：Week 1（建議 7 天內完成）
+## 🗓️ 時間範圍：Weeks（建議 30 天內完成）
 
 - Week 1: Tutorials: Getting started, Create a module, Getting started with multi-module workspaces
 - Week 2  Tutorials: Accessing a relational database, Developing a RESTful API with Go and Gin
