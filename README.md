@@ -14,8 +14,6 @@ golang-101/
 │   ├── cli-weather/
 │   ├── json-api-client/
 │   └── ...
-├── web/               # Web 框架實作
-│   └── go-gin-bookstore/
 ├── grpc/              # gRPC 練習
 │   └── chat-app/
 ├── concurrency/       # 並發模式
